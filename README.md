@@ -24,7 +24,7 @@ Federated learning offers a promising solution to the challenges of data heterog
 ## Key Contributions:
 
 1. Novel appraoch to balancing the issues of data heterogeneity and sensor dependency for urban flood prediction
-2. FedFlood, A more effective, novel early warning system (EWS) for urban flood prediction, featuring the following:
+2. FedFlood, A novel EWS for urban flood prediction, featuring the following:
  
    a) Demonstrated real-time predictive capacity validated by real-time data
    
